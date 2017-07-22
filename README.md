@@ -2,11 +2,14 @@
 
 
 
-1. LAYOUT
-
-
-Parallax Template:
+Credits Framework:
 ==================
+
+https://laravel.com/
+
+
+Credits Parallax Template:
+==========================
 
 http://materializecss.com/
 
@@ -21,16 +24,6 @@ Lorem Ipsum Generators:
 =======================
 
 https://theultralinx.com/2013/08/10-hilarious-lorem-ipsum-generators-web-designers/
-
-
-
-2. LAYOUT INTEGRATION IN LARAVEL 5.4 / BASIC ROUTING
-
-
-Credits:
-========
-
-https://laravel.com/
 
 
 
